@@ -1,3 +1,6 @@
 package com.example.flowers.model
 
-data class Flower(val name:Int, val farmingCountry : Int, val img :Int)
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+data class Flower(@StringRes val name:Int, @StringRes val farmingCountry : Int, @DrawableRes val img :Int)

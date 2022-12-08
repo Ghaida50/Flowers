@@ -5,9 +5,9 @@
     <string name="sunflower">Sunflower</string>
     <string name="sunflower_c">Ukraine</string>
     <string name="lavender">Lavender</string>
-    <string name="lavender_c">Bulgaria, France, China and other</string>
+    <string name="lavender_c">Bulgaria, France, \n China and others</string>
     <string name="cherry">Cherry Blossom</string>
     <string name="cherry_c">Japan</string>
     <string name="rose">Rose</string>
-    <string name="rose_c">The Netherland, Ecuador, Colombia and others</string>
+    <string name="rose_c">The Netherland, Ecuador,\n  Colombia and others</string>
 </resources>
