@@ -21,5 +21,11 @@ class MainActivity : AppCompatActivity() {
 
         recyclerView.setHasFixedSize(true)
 
+       // val layoutManager=GridLayoutManager(this,2)
+       // recyclerView.layoutManager=layoutManager
+
+
+
+
     }
 }
