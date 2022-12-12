@@ -10,4 +10,12 @@
     <string name="cherry_c">Japan</string>
     <string name="rose">Rose</string>
     <string name="rose_c">The Netherland, Ecuador,\n  Colombia and others</string>
+    <string name="tulip_d">Tulip flowers are cup-shaped flowers having several colors and a large green stem. This flower comes from the family of the flower lily. This flower is mostly used in decorating bookies.</string>
+    <string name="sunflower_d">Helianthus, a botanical name for the sunflower. This flower looks like a sun and is always tilted towards the sunlight.</string>
+    <string name="lavender_d">The lavender flower is known for its beautiful color and beautiful fragrance. This is also called Lavandula from the mint family. It comes in many colors like purple, pale lilac, deep royal purple, pink, red, green, white, etc.</string>
+    <string name="cherry_d">A cherry blossom flower is a name for a flower of origin prunus serrulata, one of the well-known species from japan.</string>
+    <string name="rose_d">Rose is a small sweet-scented flowering shrub and is grown in almost all countries. They have little thorns on the stem and come in various colours.</string>
+
+
+
 </resources>

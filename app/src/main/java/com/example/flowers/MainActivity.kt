@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         val datset = Datasource().loadData()
 
+
         val recyclerView = findViewById<RecyclerView>(R.id.rv)
 
         val adapter = FlowerAdapter(this, datset)
